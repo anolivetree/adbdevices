@@ -21,5 +21,7 @@ How to use
     user@ubuntu:~/project/go/adbdevices$ ad
     1) device 0146910xxxxxxxxx
     which device?: 1
-    user@ubuntu:~/project/go/adbdevices$ 
+    user@ubuntu:~/project/go/adbdevices$ echo $ANDROID_SERIAL
+    0146910xxxxxxxxx
+    user@ubuntu:~/project/go/adbdevices$
 
