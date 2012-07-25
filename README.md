@@ -13,7 +13,7 @@ This program is written in Go. You need to install Go first.
 2. $ go build
 3. Write following line in your .bashrc.
 
-    alias ad='export ANDROID_SERIAL=`adbdevices`'
+    ``alias ad='export ANDROID_SERIAL=`adbdevices`'``
 
 How to use
 ===========
